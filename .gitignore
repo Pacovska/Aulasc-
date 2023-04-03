@@ -1,0 +1,6 @@
+#ignorar o arquivo do vscode
+.vscode/
+
+#ignora Projeto1 onde já possui um repositório próprio
+
+Projeto1/
